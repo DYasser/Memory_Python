@@ -9,4 +9,4 @@ Let's say the user typing the last number changes `3` with `cat`, the list becom
 
 ## How to run
 
-To get started you can `git clone  https://github.com/DYasser/Memory_Python.git` and have `Python3` installed. When you have `Python3` installed u can run the file pretty easily either by double clicking or by running it from an IDE.
+To get started you can `git clone  https://github.com/DYasser/Memory_Python.git` and have `Python3` installed. When you have `Python3` installed you can run the file easily either by double clicking or by running it from an IDE.
